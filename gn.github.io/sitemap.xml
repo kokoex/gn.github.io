@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://blog.example.com/</loc><lastmod>2026-11-13</lastmod></url>
+<url><loc>https://blog.example.com/posts/a-story-about-restarting/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://blog.example.com/posts/build-a-static-site-generator/</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://blog.example.com/posts/reading-atomic-habits/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://blog.example.com/pages/about/</loc><lastmod>2026-11-01</lastmod></url>
+<url><loc>https://blog.example.com/pages/archives/</loc><lastmod>2026-10-01</lastmod></url>
+<url><loc>https://blog.example.com/categories/life/</loc></url>
+<url><loc>https://blog.example.com/categories/tech/</loc></url>
+<url><loc>https://blog.example.com/categories/reading/</loc></url>
+<url><loc>https://blog.example.com/tags/daily/</loc></url>
+<url><loc>https://blog.example.com/tags/essay/</loc></url>
+<url><loc>https://blog.example.com/tags/frontend/</loc></url>
+<url><loc>https://blog.example.com/tags/productivity/</loc></url>
+<url><loc>https://blog.example.com/tags/books/</loc></url>
+<url><loc>https://blog.example.com/archives/</loc></url>
+<url><loc>https://blog.example.com/gallery/</loc></url>
+<url><loc>https://blog.example.com/inspiration/</loc></url>
+<url><loc>https://blog.example.com/moments/</loc></url>
+<url><loc>https://blog.example.com/diary/</loc></url>
+<url><loc>https://blog.example.com/shop/</loc></url>
+</urlset>
